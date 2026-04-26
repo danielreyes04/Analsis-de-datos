@@ -4,7 +4,7 @@ Análisis exploratorio y preprocesamiento de un dataset de obesidad usando Pytho
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 Analsis-de-datos/
@@ -16,7 +16,7 @@ Analsis-de-datos/
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Realizar un proceso completo de **preprocesamiento de datos** sobre un dataset de obesidad, que incluye:
 
@@ -28,7 +28,7 @@ Realizar un proceso completo de **preprocesamiento de datos** sobre un dataset d
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 **Archivo:** `ObesityDataSet_raw_and_data_sinthetic.csv`
 
@@ -51,7 +51,7 @@ El dataset contiene datos reales y sintéticos sobre hábitos alimenticios y con
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Python 3**
 - **Jupyter Notebook**
@@ -62,7 +62,7 @@ El dataset contiene datos reales y sintéticos sobre hábitos alimenticios y con
 
 ---
 
-## ⚙️ Instalación y uso
+##  Instalación y uso
 
 ### 1. Clonar el repositorio
 
@@ -92,7 +92,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Daniel Reyes**
 - GitHub: [@danielreyes04](https://github.com/danielreyes04)
